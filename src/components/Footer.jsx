@@ -58,7 +58,7 @@ const Footer = () => {
                 <Button 
                 variant={'link'}
                 colorScheme={'whiteAlpha'} >
-                    <a href='https://github.com/athrvwebdev'>GitHub </a>
+                    <a href='https://github.com/athrvdev'>GitHub </a>
                 </Button>
                 <Button 
                 variant={'link'}
